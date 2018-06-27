@@ -1,0 +1,61 @@
+n01883212	dasyures; native cats; pouched mice; banded anteaters; Tasmanian devils
+n01883762	type genus of the family Dasyuridae: native cats
+n01899062	dense coat of fine silky hairs on mammals (e.g., cat or seal or weasel)
+n01901828	a long stiff hair growing from the snout or brow of most mammals as e.g. a cat
+n02074915	cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder Pinnipedia
+n02082190	terrestrial carnivores; having toes separated to the base: dogs; cats; bears; badgers; raccoons
+n02120692	cats; wildcats; lions; leopards; cheetahs; saber-toothed tigers
+n02121234	type genus of the Felidae: true cats and most wildcats
+n02121620	feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats
+n02122298	informal terms referring to a domestic cat
+n02122430	a cat proficient at mousing
+n02122510	a homeless cat
+n02122725	male cat
+n02122878	female cat
+n02122948	young domestic cat
+n02123045	a cat with a grey or tawny coat mottled with black
+n02123159	a cat having a striped coat
+n02123242	a cat having black and cream-colored and yellowish markings
+n02123394	a long-haired breed of cat
+n02123478	a long-haired breed of cat similar to the Persian cat
+n02123597	a slender short-haired blue-eyed breed of cat having a pale coat with dark ears paws face and tail tip
+n02123785	Siamese cat having a bluish cream-colored body and dark grey points
+n02123917	a short-haired breed with body similar to the Siamese cat but having a solid dark brown or grey coat
+n02124075	a domestic cat of Egypt
+n02124157	a term applied indiscriminately in the United States to any short-haired bluish-grey cat
+n02124484	a short-haired tailless breed of cat believed to originate on the Isle of Man
+n02124623	any small or medium-sized cat resembling the domestic cat and living in the wild
+n02125081	bushy-tailed wildcat of Europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat
+n02127808	any of several large cats typically able to roar and living in the wild
+n02130308	long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game
+n02130545	any of many extinct cats of the Old and New Worlds having long swordlike upper canine teeth; from the Oligocene through the Pleistocene
+n02131211	North American cat of the Miocene and Pliocene; much earlier and less specialized than members of the genus Smiledon
+n02136452	largest carnivore of Madagascar; intermediate in some respects between cats and civets
+n02187150	flea that attacks dogs and cats
+n02187279	flea that breeds chiefly on cats and dogs and rats
+n02507148	an animal that walks so that only the toes touch the ground as e.g. dogs and cats and horses
+n02982515	a receptacle for cat excrement
+n02985963	a bottle that holds catsup
+n03848729	a vacant or unobstructed space that is man-made; "they left a small opening for the cat at the bottom of the door"
+n04198015	the front of a shirt (usually the part not covered by a jacket); "he had spilled catsup on his shirtfront"
+n07378569	the yowling sound made by a cat in heat
+n07386614	the sound made by a cat (or any sound resembling this)
+n07390645	a low vibrating sound typical of a contented cat
+n07806043	food prepared for cats
+n07834872	mayonnaise with horseradish grated onion and chili sauce or catsup; sometimes with caviar added
+n07835173	mayonnaise with chili sauce or catsup and minced olives and peppers and hard-cooked egg
+n07835331	spicy sweet and sour sauce usually based on catsup or chili sauce
+n07837110	usually catsup with horseradish and lemon juice
+n07995365	a group of cats
+n09591676	a fictional cat with a broad fixed smile on its face; created by Lewis Carroll
+n09900153	a spiteful woman gossip; "what a cat she is!"
+n09901921	a person who breeds and cares for cats
+n10023129	an employee of a municipal pound who is hired to round up stray dogs and cats
+n11862300	pink clusters of densely packed flowers on prostrate stems resemble upturned pads of cats' feet; grow in coniferous forests of western North America
+n12859986	hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats
+n12870048	Mediterranean germander having small hairy leaves and reddish purple flowers; attractive to cats
+n14073906	a disease thought to be transmitted to humans by a scratch from a cat
+n14186046	infection caused by parasites transmitted to humans from infected cats; if contracted by a pregnant woman it can result in serious damage to the fetus
+n14385002	a morbid fear of cats
+n14813957	granulated clay; placed in a container where it absorbs the waste products of a cat or dog
+n15125679	from 40 million to 25 million years ago; appearance of sabertoothed cats
