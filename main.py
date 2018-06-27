@@ -13,13 +13,15 @@ client = MongoClient('localhost', 27017)
 db = client.CatsAndDogs
 collection = db.CatsAndDogs_items
 
+# Скачаем файл с wnid:
+initialization.getWNIDCollection()
 # Поищем wnid, в которых есть cat[s]
 
 file = open('wnid.txt', 'r', encoding='utf-8')
 raw = file.readlines()
 pattern = r'[ \t]cat[\n s]'
 myCats = ''
-#print(re.search(pattern, raw[0]))
+
 for i in raw:
     if re.search(pattern, i) != None:
         myCats+=i
