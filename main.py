@@ -6,10 +6,12 @@ import fileinput
 import initialization
 import re
 
+# Создадим каталоги: 
+initialization.makeFolders()
+# Подключимся к БД:
 client = MongoClient('localhost', 27017)
 db = client.CatsAndDogs
 collection = db.CatsAndDogs_items
-print(collection.find_one())
 
 # Поищем wnid, в которых есть cat[s]
 
