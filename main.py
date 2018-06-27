@@ -30,7 +30,7 @@ file.close()
 file = open('myCats.txt', 'w', encoding='utf-8')
 file.write(myCats)
 file.close()
-# Проделав ту же процедуры, отыщем dog[s]
+# Проделав те же процедуры, отыщем dog[s]
 
 file = open('wnid.txt', 'r', encoding='utf-8')
 raw = file.readlines()
