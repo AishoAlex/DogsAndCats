@@ -8,13 +8,14 @@ import re
 
 # Создадим каталоги: 
 initialization.makeFolders()
+
 # Подключимся к БД:
 client = MongoClient('localhost', 27017)
 db = client.CatsAndDogs
 collection = db.CatsAndDogs_items
 
 # Скачаем файл с wnid:
-#initialization.getWNIDCollection()
+initialization.getWNIDCollection()
 # Поищем wnid, в которых есть cat[s]
 
 file = open('wnid.txt', 'r', encoding='utf-8')
@@ -41,7 +42,7 @@ for i in raw:
     if re.search(pattern, i) != None:
         myDogs+=i
 file.close()
-# Запишем найденные строки в файл
+#Запишем найденные строки в файл
 file = open('myDogs.txt', 'w', encoding='utf-8')
 file.write(myDogs)
 

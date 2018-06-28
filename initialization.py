@@ -43,7 +43,8 @@ def getImages(url, path):
         print(e)
         return False
     
-    if(url == r.url): # Довольно топорно, но таки работает
+    if(url == r.url and r.headers['content-type']=='image/jpeg'): # Довольно топорно, но таки работает
+        print(r.headers['content-type'])
         file.write(r.content)
         mark = True
     file.close()
