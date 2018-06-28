@@ -13,7 +13,11 @@ def getWNIDCollection():
     file.close()
 def getWNID(wnid):
     url = 'http://image-net.org/api/text/imagenet.synset.geturls?wnid='+wnid
-    r = requests.get(url)
+    try:
+        r = requests.get(url)
+    except requests.exceptions.RequestException as e:  
+        print(e)
+        return False
     # fileName = wnid+'_id.txt'
     # file = open(fileName, 'w', encoding = "utf-8")
     # file.write(r.text)
