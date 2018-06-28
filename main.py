@@ -7,7 +7,7 @@ import initialization
 import re
 
 # Создадим каталоги: 
-#initialization.makeFolders()
+initialization.makeFolders()
 # Подключимся к БД:
 client = MongoClient('localhost', 27017)
 db = client.CatsAndDogs
@@ -52,19 +52,19 @@ file.write(myDogs)
 pattern = r'n[0-9]{8}'
 # Пусть сначала будут кошечки ^_^
 
-# fileName = 'myCatsLinks.txt'
-# links = ''
-# file_read = open('myCats.txt', 'r', encoding='utf-8')
-# raw = file_read.readlines()
+fileName = 'myCatsLinks.txt'
+links = ''
+file_read = open('myCats.txt', 'r', encoding='utf-8')
+raw = file_read.readlines()
 
-# for i in raw:
-#     print(i)
-#     link = re.search(pattern, i).group()
-#     links+=initialization.getWNID(link)
-# file = open(fileName, 'w', encoding = 'utf-8')
-# file.write(links)
-# file.close()
-# file_read.close()
+for i in raw:
+    print(i)
+    link = re.search(pattern, i).group()
+    links+=initialization.getWNID(link)
+file = open(fileName, 'w', encoding = 'utf-8')
+file.write(links)
+file.close()
+file_read.close()
 
 # Теперь можно и собакенов:
 
