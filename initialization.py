@@ -17,7 +17,7 @@ def getWNID(wnid):
         r = requests.get(url)
     except requests.exceptions.RequestException as e:  
         print(e)
-        return False
+        return 'false'
     # fileName = wnid+'_id.txt'
     # file = open(fileName, 'w', encoding = "utf-8")
     # file.write(r.text)
