@@ -20,7 +20,7 @@ initialization.getWNIDCollection()
 
 file = open('wnid.txt', 'r', encoding='utf-8')
 raw = file.readlines()
-pattern = r'[ \t]cat[\n s]'
+pattern = r"\bcat([s|-]){0,1}[^\-']\b"
 myCats = ''
 
 for i in raw:
@@ -35,7 +35,7 @@ file.close()
 
 file = open('wnid.txt', 'r', encoding='utf-8')
 raw = file.readlines()
-pattern = r'[ \t]dog[\n s]'
+pattern = r"\bdog([s|-]){0,1}[^\-']\b"
 myDogs = ''
 
 for i in raw:
@@ -53,35 +53,35 @@ file.write(myDogs)
 pattern = r'n[0-9]{8}'
 # Пусть сначала будут кошечки ^_^
 
-fileName = 'myCatsLinks.txt'
-links = ''
-file_read = open('myCats.txt', 'r', encoding='utf-8')
-raw = file_read.readlines()
+# fileName = 'myCatsLinks.txt'
+# links = ''
+# file_read = open('myCats.txt', 'r', encoding='utf-8')
+# raw = file_read.readlines()
 
-for i in raw:
-    print(i)
-    link = re.search(pattern, i).group()
-    links+=initialization.getWNID(link)
-file = open(fileName, 'w', encoding = 'utf-8')
-file.write(links)
-file.close()
-file_read.close()
+# for i in raw:
+#     print(i)
+#     link = re.search(pattern, i).group()
+#     links+=initialization.getWNID(link)
+# file = open(fileName, 'w', encoding = 'utf-8')
+# file.write(links)
+# file.close()
+# file_read.close()
 
 # Теперь можно и собакенов:
 
-fileName = 'myDogsLinks.txt'
-links = ''
-file_read = open('myDogs.txt', 'r', encoding='utf-8')
-raw = file_read.readlines()
+# fileName = 'myDogsLinks.txt'
+# links = ''
+# file_read = open('myDogs.txt', 'r', encoding='utf-8')
+# raw = file_read.readlines()
 
-for i in raw:
-    print(i)
-    link = re.search(pattern, i).group()
-    links+=initialization.getWNID(link)
-file = open(fileName, 'w', encoding = 'utf-8')
-file.write(links)
-file.close()
-file_read.close()
+# for i in raw:
+#     print(i)
+#     link = re.search(pattern, i).group()
+#     links+=initialization.getWNID(link)
+# file = open(fileName, 'w', encoding = 'utf-8')
+# file.write(links)
+# file.close()
+# file_read.close()
 
 # Теперь у нас есть все, чтобы наконец-то заполучить в свои лапы картинки (а в тех, 
 # где Cats иногда такое встречается, что лучше смотреть в одиночестве, да...)

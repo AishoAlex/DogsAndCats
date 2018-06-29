@@ -6,8 +6,10 @@ import fileinput
 import requests
 import os
 def getWNIDCollection():
-    r = requests.get('http://image-net.org/archive/gloss.txt')
     fileName = 'wnid.txt'
+    if os.path.exists(fileName):
+        return 0
+    r = requests.get('http://image-net.org/archive/gloss.txt')
     file = open(fileName, 'w', encoding = "utf-8")
     file.write(r.text)
     file.close()
@@ -50,10 +52,14 @@ def getImages(url, path):
     file.close()
     return mark
 def makeFolders():
-    os.mkdir('data')
-    os.mkdir('data/test')
-    os.mkdir('data/train')
-    os.mkdir('data/test/cat')
-    os.mkdir('data/test/dog')
-    os.mkdir('data/train/dog')
-    os.mkdir('data/train/cat')
+    try:
+        os.mkdir('data')
+        os.mkdir('data/test')
+        os.mkdir('data/train')
+        os.mkdir('data/test/cat')
+        os.mkdir('data/test/dog')
+        os.mkdir('data/train/dog')
+        os.mkdir('data/train/cat')
+    except OSError:
+        print('Директории существуют\n')
+    

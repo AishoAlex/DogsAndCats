@@ -1,14 +1,10 @@
-n00294366	a steady trot like that of a dog
-n00308208	a journey by dogsled
 n00312266	a short excursion (a walk or ride) in the open air; "he took the dogs for an airing"
 n00453126	hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent
 n00519492	a competitive exhibition of dogs
-n00570572	an elementary swimming stroke imitating a swimming dog
 n00794870	a test of young hunting dogs to determine their skill in pointing and retrieving
 n00915574	breeding dogs
 n00971802	a violent fight between dogs (sometimes organized illegally for entertainment and gambling)
 n01322343	young of any of various canines such as a dog or wolf
-n01322604	a young dog
 n01330966	the RNA virus that causes lymphocytic choriomeningitis; infects mice and monkeys and dogs and guinea pigs and human beings
 n01341183	any of a group of viruses containing DNA in an icosahedral protein shell and causing disease in dogs and cattle; not known to be associated with any human disease
 n02074915	cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder Pinnipedia
@@ -19,7 +15,6 @@ n02083863	type genus of the Canidae: domestic and wild dogs; wolves; jackals
 n02084071	a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds; "the dog barked all night"
 n02084732	informal terms for dogs
 n02084861	an inferior dog or one of mixed breed
-n02085019	a nervous belligerent little mongrel dog
 n02085118	ownerless half-wild mongrel dog common around Asian villages especially India
 n02085272	a dog small and tame enough to be held in the lap
 n02085374	any of several breeds of very small dogs kept purely as pets
@@ -28,7 +23,6 @@ n02085782	breed of toy dogs originating in Japan having a silky black-and-white 
 n02085936	breed of toy dogs having a long straight silky white coat
 n02086079	a Chinese breed of small short-legged dogs with a long silky coat and broad flat muzzle
 n02086240	a Chinese breed of small dog similar to a Pekingese
-n02087046	a small active dog
 n02087122	a dog used in hunting game
 n02087314	a dog trained for coursing
 n02087394	a powerful short-haired African hunting dog having a crest of reversed hair along the spine
@@ -61,13 +55,11 @@ n02102605	any dog of two large curly-coated breeds used for hunting waterfowl
 n02103181	breed of medium-sized long-headed dogs with downy undercoat and harsh wiry outer coat; originated in Holland but largely developed in France
 n02103406	any of several breeds of usually large powerful dogs bred to work as draft animals and guard and guide dogs
 n02103841	a dog trained to guard property
-n02104029	long-established Hungarian breed of tall light-footed but sturdy white dog; used also as a hunting dog
 n02104280	a dog trained to guard a house
 n02104365	breed of small stocky black dogs originally used as watchdogs on boats in the Netherlands and Belgium
 n02104523	any of various usually long-haired breeds of dog reared to herd and guard sheep
 n02104882	hardy working dog developed in Belgium for herding sheep
 n02105251	old French breed of large strong usually black dogs having a long tail and long wavy and slightly stiff coat
-n02105505	Hungarian breed of large powerful shaggy-coated white dog; used also as guard dog
 n02106550	German breed of large vigorous short-haired cattle dogs
 n02106662	breed of large shepherd dogs used in police work and as a guide for the blind
 n02106854	any dog trained to assist police especially in tracking
@@ -77,18 +69,15 @@ n02107683	large powerful long-haired black-coated Swiss dog with deep tan or rus
 n02108089	a breed of stocky medium-sized short-haired dog with a brindled coat and square-jawed muzzle developed in Germany
 n02108254	an old breed of powerful deep-chested smooth-coated dog used chiefly as a watchdog and guard dog
 n02108551	very large powerful rough-coated dog native to central Asia
-n02109047	very large powerful smooth-coated breed of dog
 n02109150	a dog trained to guide the blind
 n02109256	(trademark) a guide dog trained to guide a blind person
 n02109391	dog trained to assist the deaf by signaling the occurrence of certain sounds
 n02109525	a Swiss alpine breed of large powerful dog with a thick coat of hair used as a rescue dog
 n02109687	a dog that can alert or assist people with seizure disorders
 n02109811	a dog trained to draw a sled usually in a team
-n02109961	breed of heavy-coated Arctic sled dog
 n02110063	breed of sled dog developed in Alaska
 n02110185	breed of sled dog developed in northeastern Siberia; they resemble the larger Alaskan malamutes
 n02110627	European breed of small dog resembling a terrier with dark wiry hair and a tufted muzzle
-n02111129	a large dog (usually with a golden coat) produced by crossing a St Bernard and a Newfoundland
 n02111277	a breed of very large heavy dogs with a thick coarse usually black coat; highly intelligent dogs and vigorous swimmers; developed in Newfoundland
 n02111500	bred of large heavy-coated white dogs resembling the Newfoundland
 n02111626	any of various stocky heavy-coated breeds of dogs native to northern regions having pointed muzzles and erect ears with a curled furry tail
@@ -100,41 +89,30 @@ n02112497	breed of various very small compact wiry-coated dogs of Belgian origin
 n02112826	either of two Welsh breeds of long-bodied short-legged dogs with erect ears and a fox-like head
 n02113335	an intelligent dog with a heavy curly solid-colored coat that is usually clipped; an old breed sometimes trained as sporting dogs or as performing dogs
 n02113978	any of an old breed of small nearly hairless dogs of Mexico
-n02115012	offspring of a coyote and a dog
 n02115335	any of various undomesticated mammals of the family Canidae that are thought to resemble domestic dogs as distinguished from jackals or wolves
 n02115641	wolflike yellowish-brown wild dog of Australia
-n02115775	Asiatic wild dog
 n02115913	fierce wild dog of the forests of central and southeast Asia that hunts in packs
-n02116079	crab-eating dog
 n02116185	wild dog of northern South America
 n02116322	raccoon dogs
 n02116450	small wild dog of eastern Asia having facial markings like those of a raccoon
-n02116630	African hunting dog
 n02187150	flea that attacks dogs and cats
 n02187279	flea that breeds chiefly on cats and dogs and rats
 n02359204	prairie dogs
 n02507148	an animal that walks so that only the toes touch the ground as e.g. dogs and cats and horses
 n02789487	a counter where you can obtain food or drink; "he bought a hot dog and a coke at the bar"
-n03217739	a cart drawn by a dog
-n03217814	a collar for a dog
-n03217889	a bag for food that a customer did not eat at a restaurant; the transparent pretense is that the food is taken home to feed the customer's dog
 n03218198	a sled pulled by dogs
-n03610524	outbuilding that serves as a shelter for a dog
 n03993703	a public enclosure for stray or unlicensed dogs; "unlicensed dogs will be taken to the pound"
 n04235291	a vehicle mounted on runners and pulled by horses or dogs; for transportation over snow
 n04484952	a light rope used in lumbering to free a dog hook from a log at a distance
 n05255692	fine soft dense hair (as the fine short hair of cattle or deer or the wool of sheep or the undercoat of certain dogs)
+n05653327	a sensitivity that is keen and highly developed; "dogs have a remarkable acuteness of smell"
+n05845888	a similar kind; "dogs, foxes, and the like", "we don't want the likes of you around here"
 n07272694	metal plate on a dog collar bearing its registration number
-n07376621	the sound made by a dog
-n07376731	a noise resembling the bark of a dog
-n07378163	the bark of a dog
 n07459868	a race between dogs; usually an occasion for betting on the outcome
-n07460904	an important dogsled race run annually on the Iditarod Trail
 n07467704	a contest between gun dogs to determine their proficiency in pointing and retrieving
 n07526338	freedom from anxiety or fear; "the watch dog gave her a feeling of security"
 n07635746	a hard biscuit for dogs
 n07805966	food prepared for dogs
-n09268480	fecal droppings from a dog
 n09493204	(Greek mythology) the three-headed dog guarding the entrance to Hades; son of Typhon
 n09971682	a huntsman who hunts small animals with fast dogs that use sight rather than scent to follow their prey
 n10023129	an employee of a municipal pound who is hired to round up stray dogs and cats
@@ -142,12 +120,10 @@ n10339717	a traveler who drives (or travels with) a dog team
 n11227206	Russian physiologist who observed conditioned salivary responses in dogs (1849-1936)
 n11923016	dog fennel
 n12104943	perennial grasses of temperate and cool regions: wheatgrass; dog grass
-n13892142	angle that resembles the hind leg of a dog
+n13998781	the state of being physically constrained; "dogs should be kept under restraint"
 n14078120	a disease (common in India and around the Mediterranean area) caused by a rickettsia that is transmitted to humans by a reddish brown tick (ixodid) that lives on dogs and other mammals
 n14262336	chorea in dogs
 n14264203	a viral disease of young dogs characterized by high fever and respiratory inflammation
 n14273601	an acute feverish disease in people and in dogs marked by gastroenteritis and mild jaundice
-n14287567	a bite inflicted by a dog
 n14385082	a morbid fear of dogs
 n14484516	a period of opportunity; "he deserves his day in court"; "every dog has his day"
-n14813957	granulated clay; placed in a container where it absorbs the waste products of a cat or dog
